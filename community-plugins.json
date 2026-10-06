@@ -59134,5 +59134,12 @@
     "author": "Deepal Jayasekara",
     "description": "Answer a prompt in an [!ai] callout with the Codex, Claude Code, or opencode CLI, writing the summary into the note as a nested callout. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "deepal/obsidian-ai-overview"
+  },
+  {
+    "id": "paragraph-explode",
+    "name": "Paragraph Explode",
+    "author": "Maglyos",
+    "description": "Explode a paragraph into sentences or phrases and reorder them with clicks.",
+    "repo": "Maglyos/obsidian-paragraph-explode"
   }
 ]
